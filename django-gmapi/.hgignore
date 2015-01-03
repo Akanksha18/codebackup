@@ -1,0 +1,9 @@
+syntax: glob
+*.pyc
+.tmp*
+Thumbs.db
+.project
+.pydevproject
+.settings/*
+.idea/*
+django_gmapi.egg-info/*
